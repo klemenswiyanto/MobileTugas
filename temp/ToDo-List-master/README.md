@@ -1,5 +1,5 @@
-# (Annoying) To-Do List
-This is a repository for a to-do list application built for Android with Android Studio.
+# Gym Companion
+This is a repository for a gym companion application built for Android with Android Studio.
 
 ## Overview
 This
